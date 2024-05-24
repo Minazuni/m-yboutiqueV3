@@ -4,7 +4,8 @@
 
 
 
-
+/migrations/*
+!/migrations/.gitignore
 /.env
 /.env.local
 /.env.local.php
